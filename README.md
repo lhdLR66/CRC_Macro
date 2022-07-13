@@ -1,2 +1,3 @@
 # CRC_Macro
-The code related to the article is stored here
+Polarization trajectory of M2 macrophages reveals a unique apoptotic subpopulation that inhibits colorectal cancer development
+
